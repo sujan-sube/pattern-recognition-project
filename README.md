@@ -4,6 +4,19 @@
 
 This repository contains the Jupyter notebook files used in our project for the pattern recognition course (SYDE 675).
 
+# Classifier Testing Summary
+
+The following classifiers will be used for prediction of hospital readmission. The hyperparameters of these classifiers will be tuned using random search with n_iters ~ 1000.
+
+[ ] Decision Tree
+[ ] Random Forest
+[ ] Ada Boost
+[ ] Gradient Boosting
+[ ] Gaussian Process
+[ ] MLP
+[ ] kNN
+[ ] SVM
+
 ## Set Up
 In order to access the notebook files you can follow these steps to get an environment setup with the necessary packages.
 1. Install the following prerequistes:
